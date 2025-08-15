@@ -1,4 +1,4 @@
-# Deekshitha Nallani / README.md
+# Deekshitha Nallani 
 
 Hey there! 👋  
 I’m a dedicated and passionate student currently pursuing my B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence at Amrita Vishwa Vidyapeetham, Amaravati.I'm excited to apply my skills and knowledge to tackle real-world problems.In love with coding challenges and ready to take on new challenges in the tech world.
